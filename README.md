@@ -103,3 +103,9 @@ Puedes editarlos manualmente si lo necesitas. Se generan automáticamente si no 
 - Crear más pruebas unitarias e integración tanto en backend como frontend.
 
 ¡Listo! Con estas instrucciones deberías poder levantar el proyecto localmente y experimentar con el plan de uso inteligente de tu tarjeta CMR.
+
+
+## Notas personales de desarrollo
+
+Versión experimental creada por **Sergio Márquez (smarquez_v1)**  
+Esta rama se utiliza para pruebas, ajustes de frontend y mejoras en la interfaz.
