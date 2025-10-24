@@ -1,0 +1,17 @@
+[
+  {
+    "goal": "Optimiza tu fecha de compra",
+    "description": "Compra entre el cierre y cinco días antes del pago para extender tu periodo sin interés.",
+    "category": "Calendario"
+  },
+  {
+    "goal": "Evita compras cerca del cierre",
+    "description": "Los cinco días antes del cierre concentran las compras que se pagan antes.",
+    "category": "Alertas"
+  },
+  {
+    "goal": "Mantén uso inteligente del cupo",
+    "description": "Intenta no superar el 60% de tu cupo disponible para mantener un semáforo amarillo o verde.",
+    "category": "Finanzas"
+  }
+]
